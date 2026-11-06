@@ -23,6 +23,7 @@ SCS1103-Group5-Processes and Threads
 ## Part b)
 Research Question 
 Does a thread based booking handler process booking requests faster and with low waiting time than a process based booking handler on a student laptop, when both handled the same booking workload?
+
 AIMS
 To compare a thread based and a process based booking handler on the same workload derived from the Azure Functions 2021 trace and find out which one gives faster bookings on a typical student laptop.
 OBJECTIVES
