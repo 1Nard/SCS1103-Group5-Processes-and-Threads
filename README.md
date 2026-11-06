@@ -19,8 +19,7 @@ SCS1103-Group5-Processes and Threads
 - Olgah Tore N02643547D
   
 ## Part b)
-Research Question:
-Does a thread-based booking handler process booking requests faster and with lower waiting time than a process-based booking handler on a student laptop, when both handled the same booking workload?
+
 Research Question 
 
 Does a thread based booking handler process booking requests faster and with low waiting time than a process based booking handler on a student laptop, when both handled the same booking workload?
