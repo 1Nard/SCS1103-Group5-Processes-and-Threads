@@ -1,4 +1,4 @@
-# Threads or Processes? Benchmarking a Booking Handler on a Student Laptop
+9# Threads or Processes? Benchmarking a Booking Handler on a Student Laptop
 
 SCS1103-Group5-Processes and Threads 
 
@@ -34,3 +34,15 @@ OBJECTIVES:
 2. To run both handlers on three workload sizes built from the Azure Functions 2021 trace to test how each scales.
 3. To evaluate and compare the perfomance of threads and processes by measuring execution time, CPU usage and memory consumption using the same workload and determine which approach performs more efficiently.
 
+Part B
+1. Research Question
+2. 
+Does a thread-based booking handler process booking requests faster and with lower waiting times than a process-based booking handler on a student laptop when both handle the same booking workload?
+3. Aim
+4. 
+To compare a thread-based and a process-based booking handler using the same workload derived from the Azure Functions 2021 trace and determine which approach processes bookings faster on a typical student laptop.
+5. Objectives
+6. 
+To develop both a thread-based and a process-based booking handler in Python capable of handling 10, 20, or more concurrent booking requests.
+To test both booking handlers using three different workload sizes derived from the Azure Functions 2021 trace to determine how each approach scales as the number of booking requests increases.
+To evaluate and compare the performance of threads and processes by measuring execution time, CPU usage, and memory consumption.
