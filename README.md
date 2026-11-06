@@ -32,3 +32,4 @@ OBJECTIVES
 1. To build both a thread based and a process based booking  that can handle 10,20 or more concurrent booking requests.
 2. To run both handlers on three workload sizes built from the Azure Functions 2021 trace to test how each scales.
 3. To evaluate and compare the perfomance of threads and processes by measuring execution time, CPU usage and memory consumption using the same workload and determine which approach performs more efficiently.
+4. improve accuracy.
