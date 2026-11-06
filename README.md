@@ -36,4 +36,5 @@ OBJECTIVES
 ##Part c)
 
 Why it matters 
+
 Modern applications, including online booking systems, must handle multiple user requests efficiently and reliably. When several requests arrive simultaneously, the processing method used can affect response time, system throughput and resource consumption. These challenges are particularly important on student laptops and other low-spec computers, where CPU capacity and available memory are limited.Therefore, this research is important because it will establish, through practical benchmarking, whether multithreading or multiprocessing provides measurable performance improvements over sequential processing. The findings will help identify a suitable request-processing approach for applications operating on computers with limited hardware resources, while  considering both performance and resource efficiency.
