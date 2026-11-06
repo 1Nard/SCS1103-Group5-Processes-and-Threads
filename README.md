@@ -3,5 +3,5 @@
 SCS1103-Group5-Processes and Threads 
 
 ## Group 5 Members
-- Tinevimbo Muvirimi (N02657072J)
+- Tinevimbo Muvirimi. (N02657072J)
 - Humphrey M Ndodha. (N02641211X) 
