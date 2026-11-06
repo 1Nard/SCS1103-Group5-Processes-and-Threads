@@ -9,7 +9,6 @@ SCS1103-Group5-Processes and Threads
 - Latoya L Judah N02646873G
 - Michael V Tagarira N02642278X
 - Patience E Dladla N02643454W
-- Ngonidzashe Mugashu N02650155M
 - Willie N Chimunya N02644203F
 - Thamsanqua Chagwiza N02645531M
 - Tinotenda Tauzeni N02652583X
@@ -17,6 +16,7 @@ SCS1103-Group5-Processes and Threads
 - Ryan Mutemeri N02640644Y
 - Olgah Tore N026422278X
 - Julius Marecha N02652384Y
+- Ngonidzashe Mugashu N02650155M
   
 ## Part b)
 Research Question 
