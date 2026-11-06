@@ -14,9 +14,9 @@ SCS1103-Group5-Processes and Threads
 - Tinotenda Tauzeni N02652583X
 - Pavel Musakaruka N02642379F
 - Ryan Mutemeri N02640644Y
-- Olgah Tore N026422278X
 - Julius Marecha N02652384Y
 - Ngonidzashe Mugashu N02650155M
+- Olga Tore N02643547D
   
 ## Part b)
 Research Question 
