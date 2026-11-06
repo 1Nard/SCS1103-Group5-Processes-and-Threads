@@ -1,2 +1,4 @@
-# nust-scs1103-ticketing-app-
-Group 5: Application - Containerisation in an open source ticketing app 
+# Threads or Processes? Benchmarking a Booking Handler on a Student Laptop
+
+## Group 5 Members
+- Tinevimbo Muvirimi (N02657072J)
