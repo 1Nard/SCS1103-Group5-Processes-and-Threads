@@ -16,7 +16,7 @@ SCS1103-Group5-Processes and Threads
 - Ryan Mutemeri N02640644Y
 - Julius Marecha N02652384Y
 - Ngonidzashe Mugashu N02650155M
-- Olga Tore N02643547D
+- Olgah Tore N02643547D
   
 ## Part b)
 Research Question 
