@@ -10,7 +10,7 @@ SCS1103-Group5-Processes and Threads
 - Michael V Tagarira N02642278X
 - Patience E Dladla N02643454W
 - Willie N Chimunya N02644203F
-- Thamsanqua Chagwiza N02645531M
+- Thamsanqua Chagwiza. N02645531M
 - Tinotenda Tauzeni N02652583X
 - Pavel Musakaruka N02642379F
 - Ryan Mutemeri N02640644Y
